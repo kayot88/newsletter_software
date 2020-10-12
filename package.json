@@ -10,7 +10,7 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "airtable": "^0.5.10",
+    "airtable": "^0.7.2",
     "axios": "^0.18.0",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
