@@ -18,7 +18,7 @@
     "express": "^4.16.4",
     "express-validator": "^5.3.1",
     "jsonwebtoken": "^8.5.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.0",
     "time-ago": "^0.2.1"
   },
   "engines": {
