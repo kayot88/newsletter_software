@@ -33,6 +33,6 @@
     "express"
   ],
   "devDependencies": {
-    "nodemon": "^1.19.0"
+    "nodemon": "^2.0.6"
   }
 }
